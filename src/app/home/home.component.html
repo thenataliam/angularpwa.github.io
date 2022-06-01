@@ -1,0 +1,21 @@
+<head>
+  <script src="../JavaScript/LocalStorageForm.js"></script>
+</head>
+<div class="jumbotron">
+    <h1 class="display-4">¡Hola! ¿Quieres recibir notificaciones sobre los nuevos cómics?</h1>
+    <p class="lead">Ingresa tus datos para suscribirte de forma gratuita y recibir alertas sobre las últimas novedades en cómics</p>
+    <hr class="my-4">
+    <form action="../JavaScript/LocalStorageForm.js">
+      Nombre: <br>
+      <input type="text" name="nombre" placeholder="nombre"> <br>
+      Sexo: <br>
+      <input type="radio" name="gender" value="hombre"> Hombre <br>
+      <input type="radio" name="gender" value="mujer"> Mujer<br>
+      e-mail: <br>
+      <input type="email" name="email" placeholder="email@ejemplo.com"> <br>
+      Fecha de nacimiento: <br>
+      <input type="date" name="fechaNacimiento"> <br>
+      <br>
+      <a class="btn btn-primary btn-lg" href="#" role="button" id="registrar" onclick="alta()">Enviar</a>
+    </form>
+  </div>

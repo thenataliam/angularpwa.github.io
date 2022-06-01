@@ -1,0 +1,20 @@
+<head>
+    <script language="JavaScript">
+        function redireccionar() {
+          setTimeout('history.back()', 3000);
+        }
+    </script>
+</head>
+<body onLoad="redireccionar()">
+    <div class="row animated fadeIn fast" *ngIf="indice==-1">
+        <div class="co-md-12">
+        <div class="alert alert-ingo cajita" role="alert" >
+            No existen resultados de {{nombreh}}
+            , intenta con otro heroe
+        </div>
+
+    </div>
+</div>
+
+<app-un-heroe *ngIf="indice != -1" [heroe] = 'miheroe'> </app-un-heroe>
+    </body>

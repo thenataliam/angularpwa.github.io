@@ -1,0 +1,131 @@
+{
+  "configVersion": 1,
+  "timestamp": 1654117015883,
+  "index": "/proyecto2/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/proyecto2/favicon.ico",
+        "/proyecto2/index.html",
+        "/proyecto2/main.1d3d582a2a7707c8.js",
+        "/proyecto2/manifest.webmanifest",
+        "/proyecto2/polyfills.4ab82014a80f32ef.js",
+        "/proyecto2/runtime.f07c97ea21f05baa.js",
+        "/proyecto2/styles.ef46db3751d8e999.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/proyecto2/assets/icons/icon-128x128.png",
+        "/proyecto2/assets/icons/icon-144x144.png",
+        "/proyecto2/assets/icons/icon-152x152.png",
+        "/proyecto2/assets/icons/icon-192x192.png",
+        "/proyecto2/assets/icons/icon-384x384.png",
+        "/proyecto2/assets/icons/icon-512x512.png",
+        "/proyecto2/assets/icons/icon-72x72.png",
+        "/proyecto2/assets/icons/icon-96x96.png",
+        "/proyecto2/assets/imagenes/A-64.png",
+        "/proyecto2/assets/imagenes/ben_reily_spiderman.jpg",
+        "/proyecto2/assets/imagenes/hulk_premiere_4.jpg",
+        "/proyecto2/assets/imagenes/img/180b866e1a28eb6d71624d8e9e59f4a6.png",
+        "/proyecto2/assets/imagenes/img/957aee7ff381f0b7f682d33169de10b7.png",
+        "/proyecto2/assets/imagenes/img/Hawkeye-PNG-File.png",
+        "/proyecto2/assets/imagenes/img/Iron-man-2-war-machine-sixth-scale-hot-toys-silo-902615.webp",
+        "/proyecto2/assets/imagenes/img/ThorCropped.png",
+        "/proyecto2/assets/imagenes/img/aquaman.png",
+        "/proyecto2/assets/imagenes/img/batman.png",
+        "/proyecto2/assets/imagenes/img/black-panther.png",
+        "/proyecto2/assets/imagenes/img/black-widow.jpg",
+        "/proyecto2/assets/imagenes/img/camerica.jpg",
+        "/proyecto2/assets/imagenes/img/construccion.jpg",
+        "/proyecto2/assets/imagenes/img/daredevil.png",
+        "/proyecto2/assets/imagenes/img/dc.jpg",
+        "/proyecto2/assets/imagenes/img/hulk.png",
+        "/proyecto2/assets/imagenes/img/linterna-verde.png",
+        "/proyecto2/assets/imagenes/img/marvel.jpg",
+        "/proyecto2/assets/imagenes/img/scarlet-witch.jpg",
+        "/proyecto2/assets/imagenes/img/spiderman.png",
+        "/proyecto2/assets/imagenes/img/strange.jpg",
+        "/proyecto2/assets/imagenes/img/superman_PNG38.png",
+        "/proyecto2/assets/imagenes/img/wolverine.png",
+        "/proyecto2/assets/imagenes/img/wonder-woman.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/proyecto2/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/proyecto2/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/proyecto2/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/proyecto2/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/proyecto2/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/proyecto2/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/proyecto2/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/proyecto2/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/proyecto2/assets/imagenes/A-64.png": "e22d6898af44efbc2cb66383d1947d07088b35e3",
+    "/proyecto2/assets/imagenes/ben_reily_spiderman.jpg": "a7e7c88e290cd024320e1d13d26446aeaa81b896",
+    "/proyecto2/assets/imagenes/hulk_premiere_4.jpg": "ba16468a4c573f22f35f4157d38775172d989f4f",
+    "/proyecto2/assets/imagenes/img/180b866e1a28eb6d71624d8e9e59f4a6.png": "42893a2592b7c96c9fd9306dc160d0c227b85ba6",
+    "/proyecto2/assets/imagenes/img/957aee7ff381f0b7f682d33169de10b7.png": "8c59174c276767b43ce96daeacd063fee671b67d",
+    "/proyecto2/assets/imagenes/img/Hawkeye-PNG-File.png": "22dcaf64bfc34aebc39e0056651c0af569fcaf13",
+    "/proyecto2/assets/imagenes/img/Iron-man-2-war-machine-sixth-scale-hot-toys-silo-902615.webp": "53e57de09c3fbdaefec2ca5bf409ad1b2c9928fa",
+    "/proyecto2/assets/imagenes/img/ThorCropped.png": "8355b870a92dcb197515d243a3493832ad523a36",
+    "/proyecto2/assets/imagenes/img/aquaman.png": "6f888c972601d1e3795727399241409a39325a19",
+    "/proyecto2/assets/imagenes/img/batman.png": "c79ba6ec0ff094183c56563c156eecb47c3b9969",
+    "/proyecto2/assets/imagenes/img/black-panther.png": "9c16ed1ed62193a76f45e03b91fc6d6c1f9cfc97",
+    "/proyecto2/assets/imagenes/img/black-widow.jpg": "3ce7fdd23b7e1105075ecf5409c6ab7c4e288976",
+    "/proyecto2/assets/imagenes/img/camerica.jpg": "9f2e7459df074c8499c05040f69be1ae0c5ced33",
+    "/proyecto2/assets/imagenes/img/construccion.jpg": "d9d5e2ff24326852b0f0a319a66fb70d6956d43a",
+    "/proyecto2/assets/imagenes/img/daredevil.png": "97bcb75391a39b9c56122e2f4eabe10feede01f5",
+    "/proyecto2/assets/imagenes/img/dc.jpg": "c5736878c0fdf41b396a74ba1460a118d5d781b1",
+    "/proyecto2/assets/imagenes/img/hulk.png": "af2ed8c7d4c25db3239204c7edee8d31fed2986b",
+    "/proyecto2/assets/imagenes/img/linterna-verde.png": "0943883c4a1e710be7f16b110c8f76ce84649c67",
+    "/proyecto2/assets/imagenes/img/marvel.jpg": "67d1f07e47b39e13869ff43b4a3d29b22c6d98c2",
+    "/proyecto2/assets/imagenes/img/scarlet-witch.jpg": "a0797402a3dd83ca7e1236f8e50bae8837a4933b",
+    "/proyecto2/assets/imagenes/img/spiderman.png": "c22d275f2bea490cd1cc2828c65b5f5bfef1946a",
+    "/proyecto2/assets/imagenes/img/strange.jpg": "62bb0c8b99d0539c063fee45ed8953df80d91aef",
+    "/proyecto2/assets/imagenes/img/superman_PNG38.png": "3ffac4221b42bf0d00e31f5951e978888c2e5485",
+    "/proyecto2/assets/imagenes/img/wolverine.png": "c39dac4245c9b7c2f49c6bb380cf439df8f4c5c2",
+    "/proyecto2/assets/imagenes/img/wonder-woman.jpg": "97428b0bd7da795025cedb95d8c4fbaab2a01ed8",
+    "/proyecto2/favicon.ico": "8d4ef06f7e5c6acbe67f30748895fb663c617aef",
+    "/proyecto2/index.html": "9c444171ebf4832af32a5536098dda86618cbb49",
+    "/proyecto2/main.1d3d582a2a7707c8.js": "0f8be396ed860b76104c42ef61b1f6f68c90f66b",
+    "/proyecto2/manifest.webmanifest": "811f31c8e6440d31854d01cccb05d98ffe64ed60",
+    "/proyecto2/polyfills.4ab82014a80f32ef.js": "157f59049786924a4f605e4ed4edb4941f966ee8",
+    "/proyecto2/runtime.f07c97ea21f05baa.js": "821ab3c94dca4009435aed65d1473b8097c9ff52",
+    "/proyecto2/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

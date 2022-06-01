@@ -1,0 +1,10 @@
+.TextoAbout{
+    display: flex;
+    justify-content: center;
+    width: 60%;
+}
+.aboutImg{
+    display: flex;
+    justify-content: center;
+    width: 40%;
+}
